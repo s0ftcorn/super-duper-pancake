@@ -76,3 +76,4 @@ ujson==5.10.0
 uvicorn==0.34.0
 watchfiles==1.0.3
 websockets==14.1
+tzdata==2025.2
