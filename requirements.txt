@@ -73,7 +73,7 @@ tomlkit==0.13.2
 typer==0.15.1
 typing_extensions==4.12.2
 ujson==5.10.0
-uvicorn==0.34.0
+uvicorn==0.38.0
 watchfiles==1.0.3
 websockets==14.1
 tzdata==2025.2
