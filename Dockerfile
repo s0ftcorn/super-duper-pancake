@@ -5,6 +5,7 @@ FROM python:3.13-alpine3.19 AS build
 # DEFINE BASIC ENV
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
+ENV TZ="Europe/Berlin"
 
 
 RUN apk upgrade --no-cache
